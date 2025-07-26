@@ -1,4 +1,21 @@
-## Hi there 👋
+# Sobre mim 🎮
+
+## Formação academica 🎓:
+Atualmente cursando Engenharia da computação na UFBA!
+
+## Habilidades 💡:
+- Git e Github
+- HTML e CSS
+- JavaScript
+- React
+- Python
+
+## Contato 📱:
+- Email: 3cavalcante.g@gmail.com
+- Linkedin: https://www.linkedin.com/in/guilherme-cavalcante-batista-09816a331/
+
+
+
 
 <!--
 **Cavalcante-g/Cavalcante-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
